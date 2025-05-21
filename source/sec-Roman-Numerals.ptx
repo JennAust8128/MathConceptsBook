@@ -1,8 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-Roman-Numerals" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Roman Numerals</title>
+    <title>Roman Numerals</title>
 
-  <p> Let's talk about Roman Numerals. </p>
+    <introduction>
+        <p>
+            You have undoubtedly already encountered Roman numerals in your academic and everyday life.
+            We use them in outlines, and sometimes for other lists.
+            They often appear on clock faces, especially those integrated into public building facades and clock towers.
+            The early pages of a book (before the table of contents) are typically numbered with <em>lowercase</em> Roman numerals.
+            But all these places where we encounter Roman numerals have a common limitation: the numbers used rarely reach as high as twenty.
+            You are probably familiar with the Roman numeral representations for some or all of the numbers from one to ten, and you may even know how to represent a few numbers beyond that.
+            You are less likely to recognize, for example, that MDCCXLVI is the Roman numeral representation of 1746.
+        </p>
+    </introduction>
 
+
+    <subsection xml:id="subsec-Roman-Symbols">
+        <title>Symbols Used for Roman Numerals</title>
+
+        <p>
+            Let's begin our in-depth discussion of Roman numerals with the symbols they use, which are all uppercase letters from the Latin alphabet.
+            The example at the end of the previous paragraph (MDCCXLVI) includes all seven symbols used in the Roman numeral system.
+            Their values are given in <xref ref="table-Roman-Symb"/> below.
+        </p>
+
+        <table xml:id="table-Roman-Symb">
+            <title>Symbols in the Roman Numeral System</title>
+
+            <tabular>
+                <col halign="center"></col> <col halign="center"></col>
+                <row header="yes" bottom="medium">
+                    <cell>Hindu-Arabic Numeral</cell>
+                    <cell>Roman Symbol</cell>
+                </row>
+
+                <row>
+                    <cell>1</cell>
+                    <cell>I</cell>
+                </row>
+
+                <row>
+                    <cell>5</cell>
+                    <cell>V</cell>
+                </row>
+
+                <row>
+                    <cell>10</cell>
+                    <cell>X</cell>
+                </row>
+
+                <row>
+                    <cell>50</cell>
+                    <cell>L</cell>
+                </row>
+
+                <row>
+                    <cell>100</cell>
+                    <cell>C</cell>
+                </row>
+
+                <row>
+                    <cell>500</cell>
+                    <cell>D</cell>
+                </row>
+
+                <row>
+                    <cell>1000</cell>
+                    <cell>M</cell>
+                </row>
+            </tabular>
+        </table>
+
+        <p>
+            The Roman numeral system is primarily an <term>additive</term> system, which means that the number represented by a group of Roman numerals is the sum of the values of the individual symbols. 
+            (There is a small exception to this additive rule, which is explained in <xref ref="subsec-Roman-Rules"/> below.) 
+        </p>
+    </subsection>
+
+    <subsection xml:id="subsec-Roman-Rules">
+        <title>The Rules of the Roman Numeral System</title>
+        
+    </subsection>
 </section>
