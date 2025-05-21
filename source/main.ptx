@@ -5,14 +5,16 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Mathematics Concepts</title>
+    <subtitle>A Course for Education and Liberal Arts Majors</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch-Set-Theory.ptx" />
+    <xi:include href="./ch-Ancient-Numeration.ptx" />
+    
 
 
     <!-- Include backmatter -->
